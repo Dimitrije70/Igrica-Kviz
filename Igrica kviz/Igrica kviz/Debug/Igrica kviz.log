@@ -1,0 +1,4 @@
+﻿  Kod.c
+C:\Димитрије\Програмирање\Моји Пројекти\Igrica kviz\Igrica kviz\Kod.c(47,8): warning C4013: 'system' undefined; assuming extern returning int
+C:\Димитрије\Програмирање\Моји Пројекти\Igrica kviz\Igrica kviz\Kod.c(62,29): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Igrica kviz.vcxproj -> C:\Димитрије\Програмирање\Моји Пројекти\Igrica kviz\Debug\Igrica kviz.exe
